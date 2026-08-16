@@ -72,7 +72,6 @@
 			<artifactId>mockito-junit-jupiter</artifactId>
 		</dependency>
 	</dependencies>
-
 	<build>
 		<plugins>
 			<plugin>
